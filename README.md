@@ -9,7 +9,7 @@ Steps
 4. In pop-up add the options with this sequence
 ![Screenshot 2023-06-01 170332](https://github.com/FancyNerd92/rarbg-alternatives-tutorial/assets/76796004/fa7e7a48-995c-443b-b8bb-fa89ce8f6998)
 5. Go to Indexers tab press "Test All Indexers". Everything must have a green check at the start eatch line.
-6. Go to "Search" tab and search eveything you want and choose from categories to have mor persice resaults.
+6. Go to "Search" tab and search eveything you want and choose from categories to have more percise results.
 7. As you see you can find the same torrent files as you did in RARBG
 ![Screenshot 2023-06-01 170700](https://github.com/FancyNerd92/rarbg-alternatives-tutorial/assets/76796004/2a2a0a4c-487e-49bc-aa6a-9a4508541306)
 ![Screenshot 2023-06-01 170539](https://github.com/FancyNerd92/rarbg-alternatives-tutorial/assets/76796004/eb5babc7-5edf-4fff-a0de-c28f359cfb06)
