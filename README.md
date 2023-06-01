@@ -13,4 +13,4 @@ Steps
 7. As you see you can find the same torrent files as you did in RARBG
 ![Screenshot 2023-06-01 170700](https://github.com/FancyNerd92/rarbg-alternatives-tutorial/assets/76796004/2a2a0a4c-487e-49bc-aa6a-9a4508541306)
 ![Screenshot 2023-06-01 170539](https://github.com/FancyNerd92/rarbg-alternatives-tutorial/assets/76796004/eb5babc7-5edf-4fff-a0de-c28f359cfb06)
-8. Enjoy!
+8. Enjoy and give a star ⭐!
