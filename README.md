@@ -2,7 +2,7 @@
 ![rarbg-rip-obama](https://github.com/FancyNerd92/rarbg-alternatives-tutorial/assets/76796004/8ce36732-4a26-41c9-928f-b52ac7e4f664)
 
 Steps
-1. Download Prowlarr (latest: v1.4.1.3258): https://github.com/Prowlarr/Prowlarr/releases/
+1. Download Prowlarr (latest: v1.10.2.4064): https://github.com/Prowlarr/Prowlarr/releases/
 2. Install it.
 3. Add indexers: 1337x , BitSearch , LimeTorrents , Solid Torrents , Torlock , Torrent Downloads , TorrentFunk , TorrentGalaxy
 ![Screenshot 2023-06-01 182412](https://github.com/FancyNerd92/rarbg-alternatives-tutorial/assets/76796004/6da26e67-2da7-4bfa-a47f-6a7ce7c45899)
